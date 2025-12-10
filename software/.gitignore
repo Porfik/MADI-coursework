@@ -1,0 +1,118 @@
+# Скомпилированные объектные файлы
+*.o
+*.obj
+*.dcu
+*.dcuil
+
+# Исполняемые файлы и библиотеки
+*.exe
+*.dll
+*.bpl
+*.so
+*.dylib
+*.lib
+*.a
+*.map
+
+# Файлы отладки
+*.tds
+*.pdb
+*.idr
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.tds
+*.dbg
+
+# Временные файлы IDE
+*.~*
+*~
+*.swp
+.fuse_hidden*
+
+# Файлы проекта и рабочей области
+*.local
+*.identcache
+*.tvsconfig
+*.dsk
+*.desk
+*.bdsproj.local
+*.cbproj.local
+*.dproj.local
+
+# Результаты сборки
+__history/
+__recovery/
+__recovery/
+*.stat
+*.drc
+*.rsm
+*.dres
+*.rcf
+*.sbr
+*.sbk
+*.tgs
+*.tgi
+*.tgm
+*.tgx
+*.tg3
+
+# Файлы предкомпиляции
+*.pch
+*.pchi
+
+# Файлы локальных настроек
+*.local
+*.identcache
+*.tvsconfig
+
+# Файлы развертывания
+*.deployproj
+*.deployproj.local
+
+# Файлы документации
+*.dcp
+*.dcpil
+
+# Основные директории сборки
+Win32/
+Win64/
+Android/
+iOS/
+OSX/
+Linux/
+
+# Директории для результатов сборки
+bin/
+lib/
+obj/
+dcu/
+temp/
+build/
+release/
+debug/
+
+# Файлы базы данных IDE
+*.scc
+*.vssscc
+*.vspscc
+
+# Файлы локализации
+*.res
+
+# Файлы профилирования и анализа
+*.profiler
+*.analyzer
+
+# Файлы кэша
+*.cache
+*.cachef
+
+# Файлы отчетов
+*.log
+*.err
+
+# Системные файлы
+.DS_Store
+Thumbs.db
